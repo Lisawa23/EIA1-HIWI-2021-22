@@ -1,0 +1,47 @@
+
+body{
+    height: 100%;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.karte{
+    position: absolute;
+    position: fixed;
+    padding-top: 33%;
+}
+
+.textueberschrift{
+    position: relative;
+    top: 70px;
+    left: 210px;
+    color: white;
+    font-size: 30px;
+}
+
+.text{
+    position: relative;
+    top: 200px;
+    right: 250px;
+    line-height: 12px;
+    color: white;
+    font-size: 15px;
+}
+
+.banderole{
+    position: absolute;
+    top: 390px;
+    left: 745px;
+}
+
+.muschel{
+    position: relative;
+    right: 200px;
+    padding-top: 200px;
+}
+
+.perle{
+    
+}
